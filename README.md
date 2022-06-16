@@ -22,10 +22,7 @@
 java -jar search-0.0.1-SNAPSHOT.jar "walt disney"
 ```
 6. - Passar PATH/CAMINHO do arquivo, Exemplo: C:\Users\almei\OneDrive\Documentos\data_movie\data
-
-
-
-
+7. - [Video Explicanto todos os passos acima](https://youtu.be/htIlbdxe-DU)
 
 
 
