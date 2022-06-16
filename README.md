@@ -10,6 +10,18 @@
 
 ## 🛠 Installation and Setup Instructions
 
+1. git clone https://github.com/almeidamarcelah/Desafio_Luizalabs-Buscador.git
+2. Execular o maven install para construçâo do JAR
+
+## para rodar o projeto 
+1. - Entrar na pasta do projeto "Desafio_Luizalabs-Buscador"
+2. - Entrar na pasta "target"
+3. - Abrir qualquer terminal de sua preferência
+4. - Execultar o comando:  java -jar search-0.0.1-SNAPSHOT.jar "palavra"
+```sh 
+java -jar search-0.0.1-SNAPSHOT.jar "walt disney"
+```
+6. - Passar PATH/CAMINHO do arquivo, Exemplo: C:\Users\almei\OneDrive\Documentos\data_movie\data
 
 
 
